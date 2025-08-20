@@ -1,0 +1,8 @@
+*npm i
+npm i prisma
+npx prisma init
+-Configuramos a URL de conexão no .env
+-Criamos o model no schema.prisma
+*npx prisma migrate dev
+*npx prisma generate
+*npm i bcryptjs
